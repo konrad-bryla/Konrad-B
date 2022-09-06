@@ -1,0 +1,95 @@
+body{ 
+    margin: 0;
+    font-family: 'Source Code Pro', monospace;
+}
+h1{
+    margin-top:20px;
+    font-size: 4rem;
+    font-family: 'Sofia', cursive;
+    color: #00ADB5;
+}
+h2{
+    font-size: 2rem;
+    font-family: 'Source Code Pro', monospace;
+    color: #00ADB5
+}
+h3{
+    font-size: 2rem;
+    font-family: 'Source Code Pro', monospace;
+    color: #00ADB5;
+}
+p{
+    font-size: 1.5rem;
+    margin-bottom: 0;
+    color: #EEEEEE;
+}
+.top-container{
+    background-color: #222831;
+    position: relative;
+    text-align: center;
+}
+.mountain-img{
+    height: 40rem;
+}
+.skill-row{
+    background-color: #00ADB5;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 5%;
+}
+.skill-row-h3{
+    color: #222831;
+}
+.skill-row-p{
+    color: #222831;
+}
+.skill-row-a{
+    color: #222831;
+}
+.contact-me{
+    padding-bottom: 20px;
+}
+.middle-container{
+    background-color: #222831;
+    text-align: center;
+}
+.skillsImg{
+    height: 200px;
+}
+.bottom-container{
+    padding-top: 10px;
+    background-color: #393E46;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.konradImg{
+    height: 20%;
+    width: 20%;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+.top-cloud{
+    margin-top: 40px;
+    position: relative;
+    left:27rem;
+}
+.bottom-cloud{
+    position:absolute;
+}
+.underline{
+    text-decoration: underline;
+}
+.footer-link{
+    color: #00ADB5;
+}
+.contact-btn{
+    color: #00ADB5;
+}
+a{
+    color: #00ADB5;
+}
+
+
